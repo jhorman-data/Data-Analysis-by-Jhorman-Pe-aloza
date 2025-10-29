@@ -12,7 +12,7 @@ Incluye métricas clave como:
 **Diseño:**  
 Se utilizó una paleta de cinco tonos de azul para coherencia visual y colores contrastantes (rojo, verde, amarillo) para estados críticos y KPI de alerta.
 
-⚙️ **Características:**
+**Características:**
 - Filtros por región, departamento, año y estado del proyecto  
 - Indicadores dinámicos (ProjectCount, Revenue, Satisfaction)  
 - Visuales personalizados y consistentes  
@@ -21,7 +21,6 @@ Se utilizó una paleta de cinco tonos de azul para coherencia visual y colores c
 **Archivos incluidos:**
 - `Business_Performance_Dashboard.pbix` → Archivo principal de Power BI  
 - `dashboard_preview.png` → Imagen de vista previa del dashboard  
-- `data_sample.csv` → (Opcional) datos de ejemplo  
 
 **Autor:**  
 Jhorman Peñaloza  
