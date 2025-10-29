@@ -1,6 +1,6 @@
 # Business Performance Dashboard
 
-📊 **Descripción:**  
+**Descripción:**  
 Este dashboard fue desarrollado en **Power BI** para analizar el rendimiento de proyectos empresariales.  
 Incluye métricas clave como:
 - Total de proyectos y duración promedio  
@@ -9,7 +9,7 @@ Incluye métricas clave como:
 - Satisfacción promedio por región  
 - Tendencias anuales y comparativas interactivas  
 
-🎨 **Diseño:**  
+**Diseño:**  
 Se utilizó una paleta de cinco tonos de azul para coherencia visual y colores contrastantes (rojo, verde, amarillo) para estados críticos y KPI de alerta.
 
 ⚙️ **Características:**
@@ -18,11 +18,11 @@ Se utilizó una paleta de cinco tonos de azul para coherencia visual y colores c
 - Visuales personalizados y consistentes  
 - Totalmente interactivo y adaptable a nuevos datasets
 
-📁 **Archivos incluidos:**
+**Archivos incluidos:**
 - `Business_Performance_Dashboard.pbix` → Archivo principal de Power BI  
 - `dashboard_preview.png` → Imagen de vista previa del dashboard  
 - `data_sample.csv` → (Opcional) datos de ejemplo  
 
-📫 **Autor:**  
+**Autor:**  
 Jhorman Peñaloza  
-💼 [LinkedIn](#) | [GitHub](#)
+[LinkedIn](#) | [GitHub](#)
